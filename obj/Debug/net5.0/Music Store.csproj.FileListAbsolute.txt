@@ -1,0 +1,40 @@
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\appsettings.Development.json
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\appsettings.json
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.exe
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.deps.json
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.runtimeconfig.json
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.runtimeconfig.dev.json
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.dll
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\ref\Music Store.dll
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.pdb
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.Views.dll
+F:\Yash\Practicals\Music Store\bin\Debug\net5.0\Music Store.Views.pdb
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.csproj.AssemblyReference.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.GeneratedMSBuildEditorConfig.editorconfig
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.AssemblyInfoInputs.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.AssemblyInfo.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.csproj.CoreCompileInputs.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.MvcApplicationPartsAssemblyInfo.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.RazorAssemblyInfo.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.RazorAssemblyInfo.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\staticwebassets\Music Store.StaticWebAssets.Manifest.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\staticwebassets\Music Store.StaticWebAssets.xml
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\scopedcss\bundle\Music Store.styles.css
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.TagHelpers.input.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.TagHelpers.output.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.RazorCoreGenerate.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.RazorTargetAssemblyInfo.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.RazorTargetAssemblyInfo.cs
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.Views.pdb
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.dll
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\ref\Music Store.dll
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.pdb
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.genruntimeconfig.cache
+F:\Yash\Practicals\Music Store\obj\Debug\net5.0\Music Store.csproj.CopyComplete
